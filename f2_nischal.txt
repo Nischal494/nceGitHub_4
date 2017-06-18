@@ -1,0 +1,3 @@
+Hello! I am Nischal. We are learing Git/Github...
+
+This is a text file in f2_nischal branch.
